@@ -1,2 +1,2 @@
-# hello-world
-Repositorio de practica
+# Hola gente 
+Esto es un repositorio de practica :)
